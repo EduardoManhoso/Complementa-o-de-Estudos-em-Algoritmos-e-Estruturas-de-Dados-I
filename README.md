@@ -1,14 +1,12 @@
 # Complementa o de Estudos em Algoritmos e Estruturas de Dados I
 
 Disciplina: FACOM31201 – Algoritmos e Estruturas de Dados I 
-Ementa: Listas, Pilhas e Filas 
-Carga Horária: 30 horas 
-Linguagem: C 
-Entregas: Relatório + Código comentado 
-Objetivos da Complementação 
-Consolidar o conhecimento teórico sobre listas encadeadas, filas e pilhas. 
-Aplicar os conceitos por meio de implementação e resolução de problemas 
-práticos. 
+Ementa: Listas, Pilhas e Filas
+Carga Horária: 30 horas
+Linguagem: C
+Entregas: Relatório + Código comentado
+Objetivos da Complementação
+Consolidar o conhecimento teórico sobre listas encadeadas, filas e pilhas. Aplicar os conceitos por meio de implementação e resolução de problemas práticos. 
 Refletir sobre as diferenças, vantagens e limitações de cada estrutura. 
 Desenvolver habilidades de organização de código e documentação de soluções. 
 
@@ -51,6 +49,6 @@ Requisitos técnicos
  Comentar adequadamente o código. 
 Entregas: Documentos 
 
-# 1. Relatório teórico (PDF) – 30 pontos. 
-# 2. URL com o código-fonte em C, comentado e funcional (usar repositório online, como onlinegdb.com, por exemplo) – 70 pontos 
-# 3. URL de pequeno vídeo (opcional) de até 3 minutos explicando o funcionamento do código e com um exemplo de execução (10 pontos extras). 
+1. Relatório teórico (PDF) – 30 pontos. 
+2. URL com o código-fonte em C, comentado e funcional (usar repositório online, como onlinegdb.com, por exemplo) – 70 pontos 
+3. URL de pequeno vídeo (opcional) de até 3 minutos explicando o funcionamento do código e com um exemplo de execução (10 pontos extras). 
